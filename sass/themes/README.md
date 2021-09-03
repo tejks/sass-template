@@ -1,0 +1,1 @@
+# Folder for themes' sass files

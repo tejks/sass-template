@@ -1,0 +1,1 @@
+# Folder for layout' sass files
